@@ -1,0 +1,11 @@
+body {
+	font-size: 1.6rem;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	padding: 20px;
+}
+
+section.body {
+	background: #eee;
+	padding: 10px;
+	border-radius: 5px;
+}
