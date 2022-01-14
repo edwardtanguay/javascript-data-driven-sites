@@ -13,15 +13,3 @@ section.body {
 a {
 	color: #333;
 }
-
-header {
-	font-variant: small-caps;
-	color: brown;
-	margin-top: 10px;
-}
-
-.supertitle {
-	font-size: .9rem;
-	background: beige;
-	display: inline-block;
-}
