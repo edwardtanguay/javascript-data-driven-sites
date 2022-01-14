@@ -1,6 +1,4 @@
-// npm init -y
 import { employees } from '../data/employees.js';
-// const employees = require('../data/employees.js');
 
 const contentElem = document.querySelector('.content');
 
