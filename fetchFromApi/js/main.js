@@ -5,7 +5,6 @@ contentElem.innerHTML = 'Loading...';
 	const response = await fetch('https://raw.githubusercontent.com/graphql-compose/graphql-compose-examples/master/examples/northwind/data/json/employees.json');
 	const employees = await response.json();
 
-
 	contentElem.innerHTML = `There are ${employees.length} employees.`;
 
 	contentElem.innerHTML += employees.map(emp => {
